@@ -47,12 +47,8 @@ Include screenshots or GIFs of your application in action here.
 - Animated API
 - React Native Gesture Handler
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or features you'd like to see added to the project.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 
